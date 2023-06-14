@@ -1,2 +1,2 @@
 # DataScienceStudy
-Algumas tecnologias que eu Estudei a fim de ser um DataScientist
+Código que eu contrui estudando para ser um Cientista de Dados 
